@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Tolya Fomin](https://up.htmlacademy.ru/htmlcss/27/user/1279617).
-* Наставник: `Неизвестно`.
+* Наставник: [Гоша Баранов](https://htmlacademy.ru/profile/id1206549).
 
 ---
 
